@@ -14,5 +14,5 @@ My name is Seo Yun Chang
 
 2021 금고만들기 프로젝트 진행
 
-2021 ![10 11_격자](img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/102957099/168618849-3a70ff0b-09e0-4182-9aab-6b064042bef7.jpg")![10 11_그래픽응용실습](img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/102957099/168618874-1ccfc3c8-8f82-467b-b11d-d40b65ed60cf.jpg")
+2021 ![10 11_격자]<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/102957099/168618849-3a70ff0b-09e0-4182-9aab-6b064042bef7.jpg">![10 11_그래픽응용실습]<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/102957099/168618874-1ccfc3c8-8f82-467b-b11d-d40b65ed60cf.jpg">
 
